@@ -23,6 +23,6 @@
 
 📫 Puedes contactarme en:
 <br>
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Osorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-eduardo-osorio-l%C3%B3pez/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Osorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-eduardo-osorio-lopez/)
 - ✉️ gabriel.osorio.ds@gmail.com
 - ✉️oslo_lalo@hotmail.com
